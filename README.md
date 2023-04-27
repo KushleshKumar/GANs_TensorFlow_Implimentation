@@ -2,7 +2,7 @@
 
 This repository contains a TensorFlow implementation of neural style transfer using Generative Adversarial Networks (GANs). The project explores the fascinating field of combining artistic style and content from different images to create visually stunning results.
 
-## Introduction##
+## Introduction ##
 
 Neural style transfer is an exciting technique that allows us to merge the style of one image with the content of another. By leveraging the power of GANs, we can generate new images that exhibit the content of one image while incorporating the artistic style of another.
 
@@ -21,11 +21,12 @@ Getting Started
 
 To get started with the neural style transfer project using Google Colab notebook, follow these steps:
 
-Open the Google Colab notebook and either copy and paste the above code directly and download the above file and open in Colab.
-Upload your content image and style image to Google Colab. You can do this by clicking on the folder icon on the left sidebar and selecting the images from your local machine.
-Follow the instructions in the notebook to execute each cell sequentially. The notebook provides explanations and code comments to guide you through the neural style transfer process.
-Adjust the parameters and experiment with different settings to achieve your desired style transfer results.
-Once you have completed the style transfer, you can download the generated image from Google Colab by right-clicking on the image and selecting "Download."
+- Open the Google Colab notebook and either copy and paste the above code directly and download the above file and open in Colab.
+- Upload your content image and style image to Google Colab. You can do this by clicking on the folder icon on the left sidebar and selecting the images from your local machine.
+- Follow the instructions in the notebook to execute each cell sequentially. The notebook provides explanations and code comments to guide you through the neural style transfer process.
+- Adjust the parameters and experiment with different settings to achieve your desired style transfer results.
+- Once you have completed the style transfer, you can download the generated image from Google Colab by right-clicking on the image and selecting "Download."
+
 Please note that running the notebook requires a stable internet connection and may take some time, depending on the complexity of the style transfer and the available computing resources.
 
 ## Contributing ##
